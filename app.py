@@ -7,7 +7,7 @@ final_df = pd.read_csv("Nepal_df.csv")
 list_of_states = list(final_df["State"].unique())
 list_of_states.insert(0, "Overal Nepal")
 
-st.set_page_config(layout="wide")
+
 st.sidebar.title("Nepal Data Visualization")
 selected_state = st.sidebar.selectbox("Select Province", list_of_states)
 primary = st.sidebar.selectbox("Select Primary Parameter", sorted(final_df.columns[5:]))
