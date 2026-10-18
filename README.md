@@ -124,6 +124,8 @@ Interested in Python, Data Science, Machine Learning, and interactive data visua
 
 ---
 
+My linkdlen profile : www.linkedin.com/in/aashishb712
+
 ⭐ If you find this project interesting, consider giving the repository a star!
 
 *Built with Python to explore Nepal's data, one district at a time.* 🇳🇵
